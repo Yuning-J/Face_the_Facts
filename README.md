@@ -5,3 +5,5 @@
 According to [NHS](https://www.nhs.uk/mental-health/conditions/clinical-depression/symptoms/), depression can be detected through physical-, psychological-, and social-symptons. Psychological symptoms are commonly known, containing symptons like feeling hopeless and helpless, or having thoughts of harming oneself. Physical symptoms include examples like changes in appetite or weight, or changes of sleeping habits. Social symptoms are seen in less social activities than usual. However, existing diagnosis of depression relies on subjective answers to mental health questionnaires, which is based on the patients' memory of the past weeks or months. Even if a patient is diagnosed and gets access to depression care, consistent and customised treatment is challenging to provide. 
 
 Here, we propose a smart watch, **Face the Facts**, with an attempt to tackle these challenges in depression detection and treatment. 
+
+## System Design
