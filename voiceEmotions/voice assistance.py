@@ -1,3 +1,4 @@
+#I can't install PyAudio on PyCharm Linux
 import pyttsx3
 import datetime
 import speech_recognition as sr
