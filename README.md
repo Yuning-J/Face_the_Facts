@@ -10,6 +10,11 @@ Here, we propose a smart watch, **Face the Facts**, with an attempt to tackle th
 <p align="center">
 <img src="https://github.com/Yuni0217/Face_the_Facts/blob/main/others/FacetheFacts.png" alt="System" width="550px">
 </p>
+**Step 1: Data Collection** 
+
+**Step 2: Privacy-Preserved Machine-Learning Training/Testing** 
+
+**Step 3: Fuzzy-Logic Based Computing** 
 
 ## Data
 * Facial data: get through webcam embedded in our smart watch, and generates facial emotion features (to diagnose psychological symptoms).
