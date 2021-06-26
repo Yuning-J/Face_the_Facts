@@ -14,4 +14,4 @@ Here, we propose a smart watch, **Face the Facts**, with an attempt to tackle th
 
 
 ## Reference
-* [CMU-MOSEI dataset for voice emotion detection](https://github.com/A2Zadeh/CMU-MultimodalSDK)
+* [CMU-MOSEI dataset](https://github.com/A2Zadeh/CMU-MultimodalSDK) for voice emotion detection.
