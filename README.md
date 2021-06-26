@@ -24,7 +24,7 @@ Here, we propose a smart watch, **Face the Facts**, with an attempt to tackle th
 * Medical data: get through sensors embedded in our smart watch and/or connected APP, and generates biomedical fectures (to diagnose physical symptoms).
 
 ## Note
-The code examples in each directory, e.g. facialEmotions and textEmotions, are not our original contributions. Instead, these are from open-source projects under MIT license. We added these code examples just to demonstrate the technical feasibility of our proposed smart watch depression-diagnosis system, for this "R. U. Hackathon?" activity only. We plan to work out with our own code in the future. 
+The code examples in each directory, e.g. facialEmotions and textEmotions, are not our original contributions. Instead, they are fetched from open-source projects under MIT license. We added these code examples just to demonstrate the technical feasibility of our proposed smart watch depression-diagnosis system, for this "R. U. Hackathon?" activity only. We plan to work out with our own code in the future. 
 
 ## Reference
 * [CMU-MOSEI](https://github.com/A2Zadeh/CMU-MultimodalSDK) for voice emotion detection.
