@@ -11,7 +11,11 @@ Here, we propose a smart watch, **Face the Facts**, with an attempt to tackle th
 <img src="https://github.com/Yuni0217/Face_the_Facts/blob/main/others/FacetheFacts.png" alt="System" width="550px">
 </p>
 
-
+## Data
+* Facial data: get through webcam embedded in our smart watch, and generates facial emotion features (to diagone psychological symptoms).
+* Speech data: get through microphone embedded in our smart watch, and generates voice emotion features (to diagone psychological and social symptoms).
+* Text communication data: get through connected socialisation APP in a phone/pad/PC, and generates textual emotion features (to diagone psychological and social symptoms). 
+* Medical data: get through sensors embedded in our smart watch and/or connected APP, and generates biomedical fectures (to diagone physical symptoms).
 
 ## Reference
 * [CMU-MOSEI](https://github.com/A2Zadeh/CMU-MultimodalSDK) for voice emotion detection.
