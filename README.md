@@ -7,3 +7,6 @@ According to [NHS](https://www.nhs.uk/mental-health/conditions/clinical-depressi
 Here, we propose a smart watch, **Face the Facts**, with an attempt to tackle these challenges in depression detection and treatment. 
 
 ## System Design
+<p align="center">
+<img src="" alt="System" width="200px">
+</p>
