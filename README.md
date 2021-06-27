@@ -6,6 +6,10 @@ According to [NHS](https://www.nhs.uk/mental-health/conditions/clinical-depressi
 
 Here, we propose a smart watch, **Face the Facts**, with an attempt to tackle these challenges in depression detection and treatment. 
 
+## Link to Video Presentation
+* [Face the Facts](https://youtu.be/BGUSrjBJfeI)
+
+
 ## System Design
 <p align="center">
 <img src="https://github.com/Yuni0217/Face_the_Facts/blob/main/others/FacetheFacts.png" alt="System" width="550px">
@@ -46,8 +50,6 @@ The code examples in each directory, e.g. facialEmotions and textEmotions, are n
 * [Kaggle Emotion Detection from Text Challenge](https://www.kaggle.com/pashupatigupta/emotion-detection-from-text) for text emotion detection.
 * [HeartPy](https://github.com/paulvangentcom/heartrate_analysis_python) for heart rate data analysis.
 
-## Link to Video Presentation
-* [Face the Facts](https://youtu.be/BGUSrjBJfeI)
 
 ## Reference
 Stellios, I., Kotzanikolaou, P., Psarakis, M., Alcaraz, C., & Lopez, J. (2018). A survey of iot-enabled cyberattacks: Assessing attack paths to critical infrastructures and services. IEEE Communications Surveys & Tutorials, 20(4), 3453-3495.
