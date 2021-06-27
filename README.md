@@ -46,7 +46,7 @@ The code examples in each directory, e.g. facialEmotions and textEmotions, are n
 * [Kaggle Emotion Detection from Text Challenge](https://www.kaggle.com/pashupatigupta/emotion-detection-from-text) for text emotion detection.
 * [HeartPy](https://github.com/paulvangentcom/heartrate_analysis_python) for heart rate data analysis.
 
-##Link to Video Presentation
+## Link to Video Presentation
 * [Face the Facts](https://youtu.be/BGUSrjBJfeI)
 
 ## Reference
