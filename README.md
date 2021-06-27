@@ -22,13 +22,13 @@ The categorisation results from the previous step is fetched and delivered into 
 
 ## Potential Attacks and Remediations
 
-**IoT-based attacks** may appear in the smart watch and result in DoS (Denial of Services). 
+**IoT-based attacks** may appear in the smart watch and result in DoS (Denial of Services). Possible mitigation examples are OS (operating system) hardening and adoption of secure firmware update mechanisms.  
 
-**Attacks on communication protocols** may be exploited, such as eavesdropping and replaying attacks. 
+**Attacks on communication protocols** may be exploited, such as eavesdropping and replaying attacks. Possible mitigation example is applying secure key exchange protocols.
 
-**Attacks in medical record system** may be exploited to extract or modify patients' data. 
+**Attacks in medical record system** may be exploited to extract or modify patients' data. Possible mitigation example is following advanced encryption standard.
 
-**Attacks against ML training/testing system** may be triggered, such as stealthy attack. 
+**Attacks against ML training/testing system** may be triggered, such as stealthy attack. Possible mitigation example is employing encrypted transfer learning approach.
 
 ## Data
 * Facial data: get through webcam embedded in our smart watch, and generates facial emotion features (to diagnose psychological symptoms).
