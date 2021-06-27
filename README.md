@@ -11,19 +11,24 @@ Here, we propose a smart watch, **Face the Facts**, with an attempt to tackle th
 <img src="https://github.com/Yuni0217/Face_the_Facts/blob/main/others/FacetheFacts.png" alt="System" width="550px">
 </p>
 
-**Step 1: Data Collection** 
+**Step 1 - Data Collection: ** 
 We collect mainly four types of data, namely facial data collected through webcams, speech data collected through microphone, text communication data extracted from socialisation APP, as well as medical data collected through sensors or health APP. 
 
-**Step 2: Privacy-Preserved Machine-Learning Training/Testing** 
+**Step 2 - Privacy-Preserved Machine-Learning Training/Testing: ** 
 We maintain four tracks of federated learning processes, for which the collected data are applied differetial privacy policies and anonymised for training and testing. Note that historical data is trained in offline mode. Newly recorded data is trained in online mode. 
 
-**Step 3: Fuzzy-Logic Based Computing** 
+**Step 3 - Fuzzy-Logic Based Computing: ** 
 The categorisation results from the previous step is fetched and delivered into a fuzzy-logic based computing process. Combined with depression membership defined by psychologists, we generate a depression score of the user. 
 
 ## Potential Attacks and Remediations
 
-**IoT-based attacks**
+**IoT-based attacks** may appear in the smart watch and result in DoS (Denial of Services). 
 
+**Attacks on communication protocols** may be exploited, such as eavesdropping and replaying attacks. 
+
+**Attacks in medical record system** may be exploited to extract or modify patients' data. 
+
+**Attacks against ML training/testing system** may be triggered, such as stealthy attack. 
 
 ## Data
 * Facial data: get through webcam embedded in our smart watch, and generates facial emotion features (to diagnose psychological symptoms).
