@@ -42,6 +42,9 @@ The code examples in each directory, e.g. facialEmotions and textEmotions, are n
 ## Potential Options for Mental Health Repositories
 * [CMU-MOSEI](https://github.com/A2Zadeh/CMU-MultimodalSDK) for voice emotion detection.
 * [Toronto emotional speech set (TESS)](https://tspace.library.utoronto.ca/handle/1807/24487) for voice emotion detection.
+* [Kaggle Facial Expression Recognition(FER)Challenge](https://www.kaggle.com/ashishpatel26/facial-expression-recognitionferchallenge) for facial emotion detection.
+* [Kaggle Emotion Detection from Text Challenge](https://www.kaggle.com/pashupatigupta/emotion-detection-from-text) for text emotion detection.
+* [HeartPy](https://github.com/paulvangentcom/heartrate_analysis_python) for heart rate data analysis.
 
 ## Reference
 Stellios, I., Kotzanikolaou, P., Psarakis, M., Alcaraz, C., & Lopez, J. (2018). A survey of iot-enabled cyberattacks: Assessing attack paths to critical infrastructures and services. IEEE Communications Surveys & Tutorials, 20(4), 3453-3495.
