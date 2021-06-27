@@ -12,10 +12,13 @@ Here, we propose a smart watch, **Face the Facts**, with an attempt to tackle th
 </p>
 
 **Step 1: Data Collection** 
+We collect mainly four types of data, namely facial data collected through webcams, speech data collected through microphone, text communication data extracted from socialisation APP, as well as medical data collected through sensors or health APP. 
 
 **Step 2: Privacy-Preserved Machine-Learning Training/Testing** 
+We maintain four tracks of federated learning processes, for which the collected data are applied differetial privacy policies and anonymised for training and testing. Note that historical data is trained in offline mode. Newly recorded data is trained in online mode. 
 
 **Step 3: Fuzzy-Logic Based Computing** 
+The categorisation results from the previous step is fetched and delivered into a fuzzy-logic based computing process. Combined with depression membership defined by psychologists, we generate a depression score of the user. 
 
 ## Data
 * Facial data: get through webcam embedded in our smart watch, and generates facial emotion features (to diagnose psychological symptoms).
