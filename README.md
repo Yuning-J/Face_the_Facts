@@ -20,6 +20,11 @@ We maintain four tracks of federated learning processes, for which the collected
 **Step 3: Fuzzy-Logic Based Computing** 
 The categorisation results from the previous step is fetched and delivered into a fuzzy-logic based computing process. Combined with depression membership defined by psychologists, we generate a depression score of the user. 
 
+## Potential Attacks and Remediations
+
+**IoT-based attacks**
+
+
 ## Data
 * Facial data: get through webcam embedded in our smart watch, and generates facial emotion features (to diagnose psychological symptoms).
 * Speech data: get through microphone embedded in our smart watch, and generates voice emotion features (to diagnose psychological and social symptoms).
