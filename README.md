@@ -34,6 +34,11 @@ The categorisation results from the previous step is fetched and delivered into 
 ## Note
 The code examples in each directory, e.g. facialEmotions and textEmotions, are not our original contributions. Instead, they are fetched from open-source projects under MIT license. We added these code examples just to demonstrate the technical feasibility of our proposed smart watch depression-diagnosis system, for this "R. U. Hackathon?" activity only. We plan to work out with our own code in the future. 
 
-## Reference
+## Potential Options for Mental Health Repositories
 * [CMU-MOSEI](https://github.com/A2Zadeh/CMU-MultimodalSDK) for voice emotion detection.
 * [Toronto emotional speech set (TESS)](https://tspace.library.utoronto.ca/handle/1807/24487) for voice emotion detection.
+
+## Reference
+Stellios, I., Kotzanikolaou, P., Psarakis, M., Alcaraz, C., & Lopez, J. (2018). A survey of iot-enabled cyberattacks: Assessing attack paths to critical infrastructures and services. IEEE Communications Surveys & Tutorials, 20(4), 3453-3495.
+Mosenia, A., & Jha, N. K. (2016). A comprehensive study of security of internet-of-things. IEEE Transactions on emerging topics in computing, 5(4), 586-602.
+
